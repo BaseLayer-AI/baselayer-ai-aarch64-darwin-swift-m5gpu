@@ -11,7 +11,7 @@ nix flake show
 ```
 
 ```
-nix run 
+nix run "https://flakehub.com/f/BaseLayer-AI/baselayer-ai-aarch64-darwin-swift-m5gpu/*"
 ```
 
 Full llama.cpp transcript: https://gist.github.com/ontouchstart/71815a0c4dc5d0d2467e887bfa8c21a5
