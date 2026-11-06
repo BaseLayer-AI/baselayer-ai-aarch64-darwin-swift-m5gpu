@@ -1,7 +1,7 @@
 # baselayer-ai-aarch64-darwin-swift-m5gpu
 
 ```
-nix flake show
+nix flake show "https://flakehub.com/f/BaseLayer-AI/baselayer-ai-aarch64-darwin-swift-m5gpu/*"
 ├───apps
 │   └───aarch64-darwin
 │       └───default: app
